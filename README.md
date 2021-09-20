@@ -9,10 +9,9 @@
  ##
  
  - 🎓 Estudante de Sistemas de Informação na FATEPI/FAESPI;
-- 👨‍💻 Desenvolvedor Júnior na Stefanini;
+- 👨‍💻Estudando Inteligência Artificail;
 - ❤️ Apaixonado por Tecnologia e Inovação;
 - ❤️ Fascinado por desenvolver sistemas web;
-- 👨‍ Estudando Inteligência Artificail;
  
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
