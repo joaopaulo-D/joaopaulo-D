@@ -1,14 +1,23 @@
-           👋 Hi, I’m @joaopaulo-D
-🚀My Skills:
-- ![image](https://user-images.githubusercontent.com/73599964/113491720-28cf7300-94a9-11eb-9c68-79571d15b5a6.png)
-- ![image](https://user-images.githubusercontent.com/73599964/113491723-2cfb9080-94a9-11eb-9dac-c615e70d16b9.png)
-- ![image](https://user-images.githubusercontent.com/73599964/113491726-31c04480-94a9-11eb-8bc1-c01eff6e44a0.png)
-- ![image](https://user-images.githubusercontent.com/73599964/113491727-371d8f00-94a9-11eb-93d4-c1d7a082b582.png)
-- ![image](https://user-images.githubusercontent.com/73599964/113491733-3edd3380-94a9-11eb-86ef-1127879f4fc1.png)
-- ![image](https://user-images.githubusercontent.com/73599964/113491741-4d2b4f80-94a9-11eb-80d7-e6f369bd8143.png)
+## Olá sou o João Paulo
+ <div>
+  <a href="https://github.com/joaopaulo-D">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulo-D&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-D&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-
-<!---
-DevJoao-py/DevJoao-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block"><br>
+  <img align="center" alt="JoaoPaulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JoaoPaulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JoaoPaulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JoaoPaulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JoaoPaulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JoaoPaulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="JoaoPaulo-RedesNeurais"  height="180em" src="https://oorientadorpro.files.wordpress.com/2017/10/27124503966251.gif?w=334">
+</div>
+           
+  ##  
+   
+<div>
+   <a href = "joaopaulodeoliveira2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-3796681ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
