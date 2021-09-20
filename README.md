@@ -1,7 +1,7 @@
 ## Olá sou o João Paulo
 
 - 🎓 Estudante de Sistemas de Informação na FATEPI/FAESPI
-- 👨‍💻Estudando de Inteligência Artificail
+- 👨‍💻Estudando Inteligência Artificail
 - ❤️ Apaixonado por Tecnologia e Inovação
 - ❤️ Fascinado por desenvolver sistemas web
 
