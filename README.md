@@ -20,7 +20,7 @@
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
   <img align="center" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="right" alt="JoaoPaulo-RedesNeurais"  height="180em" src="https://oorientadorpro.files.wordpress.com/2017/10/27124503966251.gif?w=334">
+  <img align="right" alt="JoaoPaulo-RedesNeurais"  height="180em" src="https://static.wixstatic.com/media/bb7b70_d5fde322f7914060b7d997ba9d506a50~mv2.gif">
 </div>
            
   ##  
