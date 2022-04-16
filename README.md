@@ -1,4 +1,8 @@
-## Olá sou o João Paulo
+## Olá sou o João Paulo!
+
+<div>
+  <img height="180em" src="https://omnilogic.com.br/midia/OMNI-cerebro.gif"/>
+</div>
 
 - 👨‍💻Estudando Inteligência Artificail
 - ❤️ Apaixonado por Tecnologia e Inovação
@@ -19,5 +23,4 @@
   <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img align="right" alt="JoaoPaulo-RedesNeurais"  height="180em" src="https://difusaoneuromat.files.wordpress.com/2017/01/galveslocherbach_-_low_resolution.gif">
 </div>
