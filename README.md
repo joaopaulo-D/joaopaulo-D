@@ -4,7 +4,7 @@
   <img height="180em" src="https://omnilogic.com.br/midia/OMNI-cerebro.gif"/>
 </div>
 
-- 👨‍💻Estudando Inteligência Artificail
+- 💻 Estudando Inteligência Artificail
 - ❤️ Apaixonado por Tecnologia e Inovação
 - ❤️ Fascinado por desenvolver sistemas web
 
