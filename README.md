@@ -1,7 +1,7 @@
 ## Olá sou o João Paulo!
 
 <div>
-  <img height="180em" src="https://omnilogic.com.br/midia/OMNI-cerebro.gif"/>
+  <img height="180em" src="[https://omnilogic.com.br/midia/OMNI-cerebro.gif](https://www.moviecorp.com.br/images/slider/rev/main/s8.gif)"/>
 </div>
 
 - 💻 Estudando Inteligência Artificail
