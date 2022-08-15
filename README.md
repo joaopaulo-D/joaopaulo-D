@@ -1,7 +1,7 @@
 ## Olá sou o João Paulo!
 
 <div>
-  <img height="180em" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*Z_-lE3mQOr4WKudO37gihQ.gif"/>
+  <img height="180em" src="https://thumbs.gfycat.com/CircularDefinitiveAsianelephant-max-1mb.gif"/>
 </div>
 
 - 💻 Estudando Inteligência Artificail
@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/joaopaulo-D">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-D&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo-D&layout=compact&langs_count=7&theme=nord"/>
 </div>
  
 <div style="display: inline_block"><br>
