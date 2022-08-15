@@ -6,7 +6,7 @@
 
 - 💻 Estudando Inteligência Artificail
 - ❤️ Apaixonado por Tecnologia e Inovação
-- ❤️ Fascinado por desenvolver sistemas web
+- ❤️ Fascinado por desenvolver sistemas web e mobile
 
 <div>
   <a href="https://github.com/joaopaulo-D">
