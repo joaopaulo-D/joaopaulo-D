@@ -1,7 +1,7 @@
 ## Olá sou o João Paulo!
 
 <div>
-  <img height="180em" src="https://dplnews.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif"/>
+  <img height="180em" src="https://omnilogic.com.br/midia/OMNI-cerebro.gif" style="border-radius: 10px"/>
 </div>
 
 - 💻 Estudando Inteligência Artificail
