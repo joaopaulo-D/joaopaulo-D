@@ -1,7 +1,7 @@
 ## Olá sou o João Paulo!
 
 <div>
-  <img height="180em" src="https://omnilogic.com.br/midia/OMNI-cerebro.gif" style="border-radius: 10px"/>
+  <img height="180em" src="https://cdn.consumidormoderno.com.br/wp-content/uploads/2019/10/aiwillsave.gif" style="border-radius: 10px"/>
 </div>
 
 - 💻 Estudando Inteligência Artificail
