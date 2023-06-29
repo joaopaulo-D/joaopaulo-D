@@ -1,21 +1,26 @@
-## Olá sou o João Paulo!
+### Olá 👋
 
-<div>
-  <img height="180em" src="https://mittechreview.com.br/wp-content/uploads/2022/08/trbr_artigo_banner1_240822-1.jpg" style="border-radius: 10px"/>
-</div>
+Inteligência Artificial e Desenvolvimento.
 
-- 💻 Atualmente estudando Inteligência Artificail
- 
-<div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-</div>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://cdn.consumidormoderno.com.br/wp-content/uploads/2019/10/aiwillsave.gif" />
+
+```python
+# joaopaulo.py
+print("Olá sou o João Paulo!")
+print("Atualmente estudando Inteligência Artificial.")
+```
+
+## **Linguagens e Ferramentas:** 
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="Tensorflow"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" alt="Pytorch"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="HTML5"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" alt="pytorch"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" alt="pennylane"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" alt="Cirq"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="pandas"/></code>
+
+---
