@@ -4,7 +4,6 @@ Inteligência Artificial e Desenvolvimento.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://cdn.consumidormoderno.com.br/wp-content/uploads/2019/10/aiwillsave.gif" />
 
 ```python
 # joaopaulo.py
