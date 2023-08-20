@@ -4,10 +4,6 @@ Inteligência Artificial e Desenvolvimento.
 
 ---
 
-<div>
-  <img src="https://ai-lab.units.it/wp-content/uploads/2022/12/wp5957944-artificial-intelligence-hd-wallpapers.jpg" alt="" style="width: 100%; height: 400px"/>
-</div>
-
 
 ## **Linguagens e Ferramentas:** 
 
